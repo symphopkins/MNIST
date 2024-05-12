@@ -1,4 +1,4 @@
-# Deep Learning Project: Handwritten Digits Classification with Convolutional Neural Networks
+# MNIST: Handwritten Digits Classification with Convolutional Neural Networks
 
 ![MNIST Digits](https://github.com/symphopkins/MNIST/blob/main/mnist_digits.png)
 
